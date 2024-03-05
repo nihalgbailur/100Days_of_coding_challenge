@@ -11,11 +11,6 @@ This repository provides a structured framework for participants to track their 
 - Daily prompts to guide participants on what to work on each day.
 - Resources for learning Python programming language.
 - Coding exercises and challenges to practice problem-solving skills.
-- Community support through forums or social media platforms.
-- Flexible approach allowing participants to work on personal projects or specific learning goals.
-- Tracking tools to monitor progress and stay motivated.
-
-**README.md:**
 
 ## Resources
 
