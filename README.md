@@ -15,37 +15,7 @@ This repository provides a structured framework for participants to track their 
 - Flexible approach allowing participants to work on personal projects or specific learning goals.
 - Tracking tools to monitor progress and stay motivated.
 
-**Usage:**
-1. Fork or clone this repository to your local machine.
-2. Read the README.md file for instructions and guidelines on how to participate in the challenge.
-3. Start the challenge by committing to coding for at least an hour every day for the next 100 days.
-4. Use the provided resources, coding exercises, and prompts to guide your daily coding sessions.
-5. Track your progress using the provided tracking tools and stay connected with the community for support and motivation.
-6. Upon completion of the challenge, reflect on your journey, and celebrate your achievements!
-
-**Contributing:**
-Contributions to improve the challenge framework, add new resources, or enhance existing exercises are welcome. Please follow the guidelines outlined in the CONTRIBUTING.md file when contributing to this repository.
-
-**License:**
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-**Disclaimer:**
-Participants are encouraged to code responsibly and prioritize their well-being throughout the challenge. It's essential to take breaks, stay hydrated, and maintain a healthy balance between coding and other activities.
-
----
-
 **README.md:**
-
-## Getting Started
-
-To get started with the challenge, follow these steps:
-
-1. Fork or clone this repository to your local machine.
-2. Read the [GUIDELINES.md](GUIDELINES.md) file for instructions on how to participate in the challenge.
-3. Review the provided resources, coding exercises, and prompts to guide your daily coding sessions.
-4. Commit to coding for at least an hour every day for the next 100 days.
-5. Use the provided tracking tools to monitor your progress and stay motivated.
-6. Engage with the community through forums or social media platforms for support and encouragement.
 
 ## Resources
 
@@ -55,13 +25,6 @@ To get started with the challenge, follow these steps:
 - [Project Euler](https://projecteuler.net/): Collection of challenging mathematical/computer programming problems.
 - [Reddit: r/learnpython](https://www.reddit.com/r/learnpython/): Community for learning Python programming.
 
-## Contributing
-
-Contributions to improve the challenge framework, add new resources, or enhance existing exercises are welcome. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on contributing to this repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
